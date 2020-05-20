@@ -1,9 +1,45 @@
+h1 {
+    font-family: 'Copse', serif;  
+}
+
+h2 {
+    font-family: 'Copse', serif;  
+}
+
+h3 {
+    font-family: 'Copse', serif; 
+}
+
+h4 {
+    font-family: 'Copse', serif; 
+}
+
+h5 {
+    font-family: 'Copse', serif; 
+}
+
 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
-    width: 100%;
-    height: 75vh;
+    width: 100%; !important
+    height: auto;
+    font-family: 'News Cycle', sans-serif; !important;
 }
 
 .carousel-item > .item > img, .carousel-inner > .item > a > img {
-    width: 100%;
-    height: 75vh;
+    width: 100%; !important;
+    height: auto;
+    font-family: 'News Cycle', sans-serif; !important;
 }
+
+.carousel {
+    font-family: 'News Cycle', sans-serif; !important;
+}
+
+.carousel img {
+        width:100% !important;
+        min-width:100 !important;
+        height: auto;
+    }
+
+.container {
+    font-family: 'News Cycle', sans-serif; !important;
+
